@@ -1,0 +1,47 @@
+//colors
+$black: black;
+
+//width
+$w-1000: 1000px;
+$w-300: 300px;
+
+
+$px-10: 10px;
+$px-50: 50px;
+
+
+.main-container {
+  width: $w-1000;
+}
+
+.movie-card{
+  width: $w-300;
+  margin-top: $px-50;
+  margin-left: 30px;
+}
+
+.card-title {
+  margin-left: $px-50;
+}
+
+.form-style {
+  width: $w-300
+}
+
+.pt-15 {
+  margin-top: 15px;
+}
+
+.pb-10 {
+  padding-bottom: $px-10;
+}
+
+.mb-20 {
+  margin-bottom: 20px;
+}
+
+.mt-10 {
+  margin-top: $px-10;
+}
+
+
